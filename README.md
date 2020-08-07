@@ -6,7 +6,7 @@
 
 ## Description:
 
-This is program allows you to save, view, and delete notes. 
+This is program allows you to save, view, and delete notes. Special thanks to James Hudgins (https://github.com/Unbukn) for his invaluable advice and assistance.
 
 Link to heroku application: https://note-4-u.herokuapp.com/
 
