@@ -18,7 +18,7 @@ run "npm start" to execute the program
 
 ## Known Bugs:
 
-DELETE function not operating properly - there's a path error. 
+no known bugs
 
 ## Support & Contact details:
 
